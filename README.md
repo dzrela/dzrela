@@ -8,8 +8,9 @@ Hi! I'm Daniel. In this Github page you can find my portfolio as well as any pro
 * Tableau
 * Microsoft Power BI
 
-🛜 [Connect with me on LinkedIn](https://www.linkedin.com/in/dzrela/)
 
+### 📫 I'm available for Freelance work on [UpWork](https://www.upwork.com/freelancers/~0138c4fb2314984607)!
+🛜 [Connect with me on LinkedIn](https://www.linkedin.com/in/dzrela/)
 
 
 <!--
