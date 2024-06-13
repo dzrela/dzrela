@@ -1,16 +1,15 @@
-Hi! I'm Daniel. In this Github page you can find my portfolio as well as any projects I am currently working on:
+## 👋 Hi! I'm Daniel - Welcome to my GitHub!
 
-## 🧑‍💻 [Link to Portfolio](https://github.com/dzrela/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/dzrela/Portfolio)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0762C8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/dzrela/)
+[![UpWork](https://img.shields.io/badge/Upwork-37A000?style=for-the-badge&logo=upwork&logoColor=FFFFFF)](https://www.upwork.com/freelancers/~0138c4fb2314984607)
+[![Gmail](https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:dzrela@gmail.com)
 
-### 💻 Tools 
+## 💻 Skill set
 * SQL (MySQL)
 * Python
 * Tableau
 * Microsoft Power BI
-
-
-### 📫 I'm available for Freelance work on [UpWork](https://www.upwork.com/freelancers/~0138c4fb2314984607)!
-🛜 [Connect with me on LinkedIn](https://www.linkedin.com/in/dzrela/)
 
 
 <!--
