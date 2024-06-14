@@ -9,6 +9,7 @@
 * SQL (MySQL)
 * Python
 * Tableau
+* Looker Studio
 * Microsoft Power BI
 
 
