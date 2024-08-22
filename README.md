@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:dzrela@gmail.com)
 
 ## 💻 Skill set
-* SQL (MySQL)
+* SQL
 * Python
 * Tableau
 * Looker Studio
