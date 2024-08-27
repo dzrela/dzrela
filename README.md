@@ -7,10 +7,10 @@
 
 ## 💻 Skill set
 * SQL
+* Microsoft Power BI
 * Python
 * Tableau
 * Looker Studio
-* Microsoft Power BI
 
 
 <!--
